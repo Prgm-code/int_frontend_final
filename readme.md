@@ -1,7 +1,7 @@
 
  #Post Card Application 
  
- Despliegue -> https://postcard.prgm.info/
+ Despliegue -> https://prgmpostcard.netlify.app/
 
  Entrega 4 Introduccion desarrollo Fron-end 
 
